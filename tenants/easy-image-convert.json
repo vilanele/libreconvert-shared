@@ -1,0 +1,9 @@
+{
+  "allowed_conversions": [
+    "png_gif",
+    "png_bmp",
+    "png_webp",
+    "png_jpeg",
+    "png_tiff"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "mov": {
+    "default_extension": "mov",
+    "valid_extensions": ["mov"],
+    "mimetype": ["video/quicktime"]
+  },
+  "mp4": {
+    "default_extension": "mp4",
+    "valid_extensions": ["mp4"],
+    "mimetype": ["video/mp4"]
+  },
+  "jpeg": {
+    "default_extension": "jpg",
+    "valid_extensions": ["jpg", "jpeg"],
+    "mimetype": ["image/jpg", "image/jpeg"]
+  },
+  "png": {
+    "default_extension": "png",
+    "valid_extensions": ["png"],
+    "mimetype": ["image/png"]
+  },
+  "bmp": {
+    "default_extension": "bmp",
+    "valid_extensions": ["bmp"],
+    "mimetype": ["image/bmp"]
+  },
+  "gif": {
+    "default_extension": "gif",
+    "valid_extensions": ["gif"],
+    "mimetype": ["image/gif"]
+  },
+  "webp": {
+    "default_extension": "webp",
+    "valid_extensions": ["webp"],
+    "mimetype": ["image/webp"]
+  },
+  "tiff": {
+    "default_extension": "tiff",
+    "valid_extensions": ["tif", "tiff"],
+    "mimetype": ["image/tif", "image/tiff"]
+  }
+}
