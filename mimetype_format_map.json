@@ -4,5 +4,6 @@
   "image/gif": "gif",
   "image/webp": "webp",
   "image/tiff": "tiff",
-  "image/bmp": "bmp"
+  "image/bmp": "bmp",
+  "video/mp4": "mp4"
 }
