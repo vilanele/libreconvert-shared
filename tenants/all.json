@@ -29,6 +29,7 @@
     "tiff_gif",
     "tiff_jpeg",
     "tiff_bmp",
-    "tiff_webp"
+    "tiff_webp",
+    "mp4_mov"
   ]
 }
