@@ -8,5 +8,6 @@
   "video/mp4": "mp4",
   "audio/flac": "flac",
   "audio/mp3": "mp3",
-  "audio/ogg": "ogg"
+  "audio/ogg": "ogg",
+  "audio/x-ms-wma": "wma"
 }
