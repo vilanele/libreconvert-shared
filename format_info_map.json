@@ -1,4 +1,14 @@
 {
+  "mp3": {
+    "default_extension": "mp3",
+    "valid_extensions": ["mp3"],
+    "mimetype": ["audio/mp3"]
+  },
+  "aac": {
+    "default_extension": "aac",
+    "valid_extensions": ["aac"],
+    "mimetype": ["audio/aac"]
+  },
   "mov": {
     "default_extension": "mov",
     "valid_extensions": ["mov"],
