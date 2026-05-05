@@ -11,5 +11,6 @@
   "audio/ogg": "ogg",
   "audio/x-ms-wma": "wma",
   "audio/vnd.wav": "wav",
-  "audio/webm": "webm"
+  "audio/webm": "webm",
+  "audio/opus": "opus"
 }
