@@ -9,6 +9,11 @@
     "valid_extensions": ["aac"],
     "mimetype": ["audio/aac"]
   },
+  "ogg": {
+    "default_extension": "ogg",
+    "valid_extensions": ["ogg", "oga", "spx"],
+    "mimetype": ["audio/ogg"]
+  },
   "mov": {
     "default_extension": "mov",
     "valid_extensions": ["mov"],
