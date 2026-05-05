@@ -14,6 +14,11 @@
     "valid_extensions": ["wav"],
     "mimetype": ["audio/vnd.wav"]
   },
+  "webm": {
+    "default_extension": "webm",
+    "valid_extensions": ["webm"],
+    "mimetype": ["audio/webm"]
+  },
   "ogg": {
     "default_extension": "ogg",
     "valid_extensions": ["ogg", "oga", "spx"],
