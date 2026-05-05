@@ -14,6 +14,11 @@
     "valid_extensions": ["ogg", "oga", "spx"],
     "mimetype": ["audio/ogg"]
   },
+  "flac": {
+    "default_extension": "flac",
+    "valid_extensions": ["flac"],
+    "mimetype": ["audio/flac"]
+  },
   "mov": {
     "default_extension": "mov",
     "valid_extensions": ["mov"],
