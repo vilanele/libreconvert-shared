@@ -9,6 +9,11 @@
     "valid_extensions": ["wma"],
     "mimetype": ["audio/x-ms-wma"]
   },
+  "wav": {
+    "default_extension": "wav",
+    "valid_extensions": ["wav"],
+    "mimetype": ["audio/vnd.wav"]
+  },
   "ogg": {
     "default_extension": "ogg",
     "valid_extensions": ["ogg", "oga", "spx"],
