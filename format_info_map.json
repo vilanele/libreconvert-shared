@@ -19,6 +19,12 @@
     "valid_extensions": ["webm"],
     "mimetype": ["audio/webm"]
   },
+  "opus": {
+    "default_extension": "opus",
+    "valid_extensions": ["opus"],
+    "mimetype": ["audio/opus"]
+  },
+
   "ogg": {
     "default_extension": "ogg",
     "valid_extensions": ["ogg", "oga", "spx"],
