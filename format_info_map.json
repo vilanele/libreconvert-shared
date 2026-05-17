@@ -2,7 +2,7 @@
   "mp3": {
     "default_extension": "mp3",
     "valid_extensions": ["mp3"],
-    "mimetype": ["audio/mp3"]
+    "mimetype": ["audio/mp3", "audio/mpeg"]
   },
   "wma": {
     "default_extension": "wma",
