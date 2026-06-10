@@ -9,7 +9,7 @@
   "audio/flac": "flac",
   "audio/mp3": "mp3",
   "audio/mpeg": "mp3",
-  "audio/ogg": "ogg",
+  "audio/ogg": "oga",
   "audio/x-ms-wma": "wma",
   "audio/vnd.wav": "wav",
   "audio/webm": "webm",

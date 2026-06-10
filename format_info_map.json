@@ -25,8 +25,8 @@
     "mimetype": ["audio/opus"]
   },
 
-  "ogg": {
-    "default_extension": "ogg",
+  "oga": {
+    "default_extension": "oga",
     "valid_extensions": ["ogg", "oga", "spx"],
     "mimetype": ["audio/ogg"]
   },
