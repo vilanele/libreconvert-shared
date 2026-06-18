@@ -5,6 +5,7 @@
     "bmp_webp",
     "bmp_jpeg",
     "bmp_tiff",
+    "bmp_bmp",
     "png_gif",
     "png_bmp",
     "png_webp",
