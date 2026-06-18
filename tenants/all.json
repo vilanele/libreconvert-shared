@@ -11,6 +11,7 @@
     "png_webp",
     "png_jpeg",
     "png_tiff",
+    "png_png",
     "gif_png",
     "gif_jpeg",
     "gif_webp",
