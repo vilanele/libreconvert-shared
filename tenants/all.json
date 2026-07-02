@@ -12,6 +12,7 @@
     "png_jpeg",
     "png_tiff",
     "png_png",
+    "png_avif",
     "gif_png",
     "gif_jpeg",
     "gif_webp",

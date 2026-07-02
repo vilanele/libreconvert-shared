@@ -13,5 +13,6 @@
   "audio/x-ms-wma": "wma",
   "audio/vnd.wav": "wav",
   "audio/webm": "webm",
-  "audio/opus": "opus"
+  "audio/opus": "opus",
+  "image/avif": "avif"
 }
