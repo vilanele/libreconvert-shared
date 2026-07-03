@@ -84,5 +84,10 @@
     "default_extension": "heif",
     "valid_extensions": ["heic", "heif"],
     "mimetype": ["image/heif"]
+  },
+  "ico": {
+    "default_extension": "ico",
+    "valid_extensions": ["ico"],
+    "mimetype": ["image/x-icon"]
   }
 }
