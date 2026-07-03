@@ -17,5 +17,6 @@
   "image/avif": "avif",
   "image/heic": "heif",
   "image/heif": "heif",
-  "image/x-icon": "ico"
+  "image/x-icon": "ico",
+  "image/vnd.microsoft.icon": "ico"
 }

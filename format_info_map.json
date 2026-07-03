@@ -88,6 +88,6 @@
   "ico": {
     "default_extension": "ico",
     "valid_extensions": ["ico"],
-    "mimetype": ["image/x-icon"]
+    "mimetype": ["image/x-icon", "image/vnd.microsoft.icon"]
   }
 }
