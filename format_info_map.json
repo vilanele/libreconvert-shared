@@ -79,5 +79,10 @@
     "default_extension": "avif",
     "valid_extensions": ["avif"],
     "mimetype": ["image/avif"]
+  },
+  "heic": {
+    "default_extension": "heic",
+    "valid_extensions": ["heic", "heif"],
+    "mimetype": ["image/heic"]
   }
 }

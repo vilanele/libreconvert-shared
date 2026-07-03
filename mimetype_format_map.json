@@ -14,5 +14,6 @@
   "audio/vnd.wav": "wav",
   "audio/webm": "webm",
   "audio/opus": "opus",
-  "image/avif": "avif"
+  "image/avif": "avif",
+  "image/heic": "heic"
 }
