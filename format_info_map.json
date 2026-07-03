@@ -80,9 +80,9 @@
     "valid_extensions": ["avif"],
     "mimetype": ["image/avif"]
   },
-  "heic": {
-    "default_extension": "heic",
+  "heif": {
+    "default_extension": "heif",
     "valid_extensions": ["heic", "heif"],
-    "mimetype": ["image/heic"]
+    "mimetype": ["image/heif"]
   }
 }

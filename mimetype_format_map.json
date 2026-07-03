@@ -15,5 +15,6 @@
   "audio/webm": "webm",
   "audio/opus": "opus",
   "image/avif": "avif",
-  "image/heic": "heic"
+  "image/heic": "heif",
+  "image/heif": "heif"
 }
