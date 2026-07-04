@@ -89,5 +89,15 @@
     "default_extension": "ico",
     "valid_extensions": ["ico"],
     "mimetype": ["image/x-icon", "image/vnd.microsoft.icon"]
+  },
+  "cr2": {
+    "default_extension": "cr2",
+    "valid_extension": ["cr2"],
+    "mimetype": ["image/x-canon-cr2"]
+  },
+  "cr3": {
+    "default_extension": "cr3",
+    "valid_extension": ["cr3"],
+    "mimetype": ["image/x-canon-cr3"]
   }
 }
