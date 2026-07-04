@@ -99,5 +99,10 @@
     "default_extension": "cr3",
     "valid_extensions": ["cr3"],
     "mimetype": ["image/x-canon-cr3"]
+  },
+  "tga": {
+    "default_extension": "tga",
+    "valid_extensions": ["tga"],
+    "mimetype": ["image/x-tga", "image-x-targa"]
   }
 }
