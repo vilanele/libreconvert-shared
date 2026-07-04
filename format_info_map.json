@@ -92,12 +92,12 @@
   },
   "cr2": {
     "default_extension": "cr2",
-    "valid_extension": ["cr2"],
+    "valid_extensions": ["cr2"],
     "mimetype": ["image/x-canon-cr2"]
   },
   "cr3": {
     "default_extension": "cr3",
-    "valid_extension": ["cr3"],
+    "valid_extensions": ["cr3"],
     "mimetype": ["image/x-canon-cr3"]
   }
 }
