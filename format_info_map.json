@@ -104,5 +104,10 @@
     "default_extension": "tga",
     "valid_extensions": ["tga"],
     "mimetype": ["image/x-tga", "image-x-targa"]
+  },
+  "dds": {
+    "default_extension": "dds",
+    "valid_extensions": ["dds"],
+    "mimetype": []
   }
 }
