@@ -117,7 +117,7 @@
   },
   "svg": {
     "default_extension": "svg",
-    "valid_extensions": "svg",
+    "valid_extensions": ["svg"],
     "mimetype": ["image/svg+xml"]
   }
 }
