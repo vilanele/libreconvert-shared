@@ -23,5 +23,6 @@
   "image/x-canon-cr3": "cr3",
   "image/x-tga": "tga",
   "image/x-targa": "tga",
-  "application/pdf": "pdf"
+  "application/pdf": "pdf",
+  "image/svg+xml": "svg"
 }

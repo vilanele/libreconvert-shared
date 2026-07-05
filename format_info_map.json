@@ -114,5 +114,10 @@
     "default_extension": "pdf",
     "valid_extensions": ["pdf"],
     "mimetype": ["application/pdf"]
+  },
+  "svg": {
+    "default_extension": "svg",
+    "valid_extensions": "svg",
+    "mimetype": ["image/svg+xml"]
   }
 }
