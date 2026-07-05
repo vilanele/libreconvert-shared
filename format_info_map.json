@@ -109,5 +109,10 @@
     "default_extension": "dds",
     "valid_extensions": ["dds"],
     "mimetype": []
+  },
+  "pdf": {
+    "default_extension": "pdf",
+    "valid_extensions": ["pdf"],
+    "mimetype": ["application/pdf"]
   }
 }
