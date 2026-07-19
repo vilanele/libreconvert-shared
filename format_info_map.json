@@ -108,7 +108,7 @@
   "dds": {
     "default_extension": "dds",
     "valid_extensions": ["dds"],
-    "mimetype": []
+    "mimetype": ["image/vnd-ms.dds"]
   },
   "pdf": {
     "default_extension": "pdf",
