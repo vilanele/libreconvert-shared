@@ -169,6 +169,7 @@
     "webp_png",
     "webp_tga",
     "webp_tiff",
-    "webp_webp"
+    "webp_webp",
+    "heic_png"
   ]
 }
