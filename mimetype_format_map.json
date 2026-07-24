@@ -15,7 +15,7 @@
   "audio/webm": "webm",
   "audio/opus": "opus",
   "image/avif": "avif",
-  "image/heic": "heif",
+  "image/heic": "heic",
   "image/heif": "heif",
   "image/x-icon": "ico",
   "image/vnd.microsoft.icon": "ico",

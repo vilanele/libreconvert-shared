@@ -82,7 +82,7 @@
   },
   "heif": {
     "default_extension": "heif",
-    "valid_extensions": ["heic", "heif"],
+    "valid_extensions": ["heif"],
     "mimetype": ["image/heif"]
   },
   "ico": {
@@ -119,5 +119,10 @@
     "default_extension": "svg",
     "valid_extensions": ["svg"],
     "mimetype": ["image/svg+xml"]
+  },
+  "heic": {
+    "default_extension": "heic",
+    "valid_extensions": ["heic"],
+    "mimetype": ["image/heic"]
   }
 }
