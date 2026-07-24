@@ -170,6 +170,17 @@
     "webp_tga",
     "webp_tiff",
     "webp_webp",
-    "heic_png"
+    "heic_png",
+    "heic_avif",
+    "heic_bmp",
+    "heic_dds",
+    "heic_gif",
+    "heic_heif",
+    "heic_ico",
+    "heic_jpeg",
+    "heic_tga",
+    "heic_tiff",
+    "heic_webp",
+    "heic_pdf"
   ]
 }
